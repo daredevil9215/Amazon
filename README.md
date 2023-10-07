@@ -1,4 +1,4 @@
-# Amazon
+# Amazon Reviews
 
 ### amazon trained on the Amazon Reviews dataset
 ### amazon2 trained on 500train
